@@ -6,6 +6,7 @@ Property Nome As %String(MAXLEN = 300) [ SqlColumnNumber = 2 ];
 Property Matricula As %String(MAXLEN = 50);
 
 /// teste
+/// teste 2
 Property Idade As %Integer;
 
 Storage Default
